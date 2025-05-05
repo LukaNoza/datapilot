@@ -14,7 +14,6 @@ You can check out the live deployed version here:
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Builder.io](https://builder.io/)
 - [Node.js](https://nodejs.org/)
 
 📌 Features
